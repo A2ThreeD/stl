@@ -48,7 +48,7 @@ These files are primarily designed for FDM printers.
 This work is licensed under:
 
 **Creative Commons Attribution-NonCommercial-NoDerivatives 4.0 International**  
-(:contentReference[oaicite:0]{index=0} CC BY-NC-ND 4.0)
+(CC BY-NC-ND 4.0 https://creativecommons.org/licenses/by-nc-nd/4.0/deed.en)
 
 ### ✔ You are allowed to:
 - Download and print the files
@@ -87,7 +87,7 @@ These files are provided *as-is*:
 These designs are **fan-made** and are **not officially licensed Ghostbusters merchandise**.
 
 Ghostbusters and related marks are property of  
-:contentReference[oaicite:1]{index=1}.
+Sony Pictures.
 
 ---
 
