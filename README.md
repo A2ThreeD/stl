@@ -4,8 +4,6 @@ Welcome to the official STL repository for **A2ThreeD** 3D Design files.
 
 This repo contains a selection of 3D-printable files for fans, builders, and prop enthusiasts looking to create high-quality Ghostbusters gear, and other projects.
 
----
-
 ## 🧰 What’s Included
 
 You’ll find a mix of:
@@ -17,8 +15,6 @@ You’ll find a mix of:
 - Experimental / prototype designs
 
 > Some designs may be simplified or alternate versions of parts used in full builds.
-
----
 
 ## 🖨️ Printing Recommendations
 
@@ -33,7 +29,6 @@ These files are primarily designed for FDM printers.
 
 > ⚠️ For prop parts that take stress (mounts, clips, etc.), PETG or ABS is recommended.
 
----
 
 ## 🔧 Assembly Notes
 
@@ -41,14 +36,13 @@ These files are primarily designed for FDM printers.
 - Test fit before final assembly
 - Hardware (screws, inserts, magnets, etc.) may be required but not always included
 
----
 
 ## 📜 License
 
 This work is licensed under:
 
 **Creative Commons Attribution-NonCommercial-NoDerivatives 4.0 International**  
-(CC BY-NC-ND 4.0 https://creativecommons.org/licenses/by-nc-nd/4.0/deed.en)
+(CC BY-NC 4.0 https://creativecommons.org/licenses/by-nc/4.0/deed.en)
 
 ### ✔ You are allowed to:
 - Download and print the files
@@ -57,9 +51,6 @@ This work is licensed under:
 ### ❌ You may NOT:
 - Sell prints or files
 - Modify and redistribute the designs
-- Use these files for commercial purposes in any way
-
----
 
 ## 💼 Commercial Use
 
@@ -70,8 +61,6 @@ If you're interested in:
 
 👉 Please contact **A2ThreeD** for commercial licensing options.
 
----
-
 ## ⚠️ Disclaimer
 
 These files are provided *as-is*:
@@ -80,8 +69,6 @@ These files are provided *as-is*:
 - Use at your own risk
 - Not responsible for damage, injury, or failed prints
 
----
-
 ## 👻 Ghostbusters Fan Note
 
 These designs are **fan-made** and are **not officially licensed Ghostbusters merchandise**.
@@ -89,19 +76,8 @@ These designs are **fan-made** and are **not officially licensed Ghostbusters me
 Ghostbusters and related marks are property of  
 Sony Pictures.
 
----
-
 ## 🙌 Credits
 
 Designed by **A2ThreeD**
 
-If you build from these files, I’d love to see it—tag or share your builds!
-
----
-
-## ⭐ Support
-
-If you like the designs:
-- Star the repo
-- Share your builds
-- Spread the word
+If you build from these files, I’d love to see it! Tag or share your builds!
